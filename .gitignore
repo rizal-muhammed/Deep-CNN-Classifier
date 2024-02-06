@@ -167,3 +167,4 @@ artifacts/data_ingestion
 
 # trials
 research/*
+artifacts/prepare_callbacks/tensorboard_log_dir/*
