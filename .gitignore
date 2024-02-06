@@ -168,3 +168,5 @@ artifacts/data_ingestion
 # trials
 research/*
 artifacts/prepare_callbacks/tensorboard_log_dir/*
+scores.json
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
