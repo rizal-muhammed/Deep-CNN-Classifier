@@ -164,3 +164,6 @@ cython_debug/
 
 # data
 artifacts/data_ingestion
+
+# trials
+research/*
